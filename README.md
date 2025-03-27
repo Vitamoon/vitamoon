@@ -11,6 +11,6 @@
 </a>
 
 <a href='https://profile.codersrank.io/user/vitamoon/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=vitamoon&padding=30>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=vitamoon&padding=30'>
   </a>
 

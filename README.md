@@ -2,9 +2,9 @@
 name: Kaelan
 location: Berkeley
 origin: SF Bay Area 🌉
-education: Currently at **the** University of California studying EECS; will be graduating in '27
+education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
-    ++ will be interning at Accenture as an ML Engineer this upcoming summer![Try it out!](https://github.com/Vitamoon/mojan)
+    ++ will be interning at Accenture as an ML Engineer this upcoming summer!
     ++ will be interning at Euronext as a Quantitative Researcher next spring
 past_experiences:
   - [SWE intern @ Sandlines : developing AI integration for real-time national policy change traking]

@@ -10,6 +10,6 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamoon&theme=merko&layout=normal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamoon&theme=merko&layout=donut-vertical" />
 </a>
 </div>

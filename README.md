@@ -4,17 +4,16 @@ location: Berkeley
 origin: SF Bay Area 🌉
 education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
-    ++ will be interning at Accenture as an ML Engineer this upcoming summer!
-    ++ will be interning at Euronext as a Quantitative Researcher next spring
+    ++ will be interning at Accenture as an ML Engineer this summer!
 past_experiences:
   - [SWE intern @ Sandlines : developing AI integration for real-time national policy change traking]
   - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric bacteria probe]
   - [techops intern @ Silicon Valley Clean Water : designed documentation tagging reference database]
   - [electronics technician @ Radiant Design Group : deployed network & audiovisual hardware/devices]
 hobbies:
-    [arthouse films, birdwatching, entomology, The Void Rains Upon Her Heart]
+    [arthouse films, birdwatching, etymology, photography, crocheting, The Void Rains Upon Her Heart]
 interests:
-    [lithography, econometrics, etymology, architecture, immunology, culinary arts, condensed matter]
+    [lithography, econometrics, entomology, architecture, immunology, culinary art, condensed matter]
 ```
 
 My favorite project I've worked on is an interactive, animated visual novel with over 200 scenes!

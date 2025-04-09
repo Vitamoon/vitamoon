@@ -24,7 +24,7 @@ I love hackathons! Check out my most recent ones:
 * [Personalized financial recommendation engine](https://github.com/Vitamoon/trae-hackathon) powered by your socials (3rd place + Meta prize @ ByteDance x AIEB)
 * [Consensus learning for fact-checking](https://github.com/Vitamoon/flare-cons) agentic AI responses across different models (2nd place @ Flare x Google)
 * [Simulating options pricing with constant market exposure](https://github.com/Vitamoon/wfbadss) using MLIP & [SPSA](https://www.jhuapl.edu/spsa/) (Finalist @ Wells Fargo DSS)
-* [Location-based humanitarian and social impact news](https://github.com/Nightxade/hack-for-humanity-2025) (Finalist @ SCU H4H 2025)
+* [Location-based humanitarian and social impact news](https://github.com/Nightxade/hack-for-humanity-2025) (Finalist @ SCU Hack for Humanity 2025)
 * [Dynamic NFT pricing aggregation estimator](https://github.com/lawrencewang1/Aleph-Hackathon-2025)
 
 ### I'm currently working on a startup to reduce data center energy use via advances in distributed computing.

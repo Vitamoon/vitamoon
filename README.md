@@ -6,7 +6,7 @@ education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
     ++ will be interning at Accenture as an ML Engineer this summer!
 past_experiences:
-  - [SWE intern @ Sandlines : developing AI integration for real-time national policy change traking]
+  - [SWE intern @ Sandlines : developing AI integration for realtime national policy change tracking]
   - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric bacteria probe]
   - [techops intern @ Silicon Valley Clean Water : designed documentation tagging reference database]
   - [electronics technician @ Radiant Design Group : deployed network & audiovisual hardware/devices]

@@ -4,12 +4,12 @@ location: Berkeley
 origin: SF Bay Area 🌉
 education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
-    ++ looking for summer internships. like Citadel or McKinsey
+    ++ looking for internships. like Citadel or McKinsey or better
 past_experiences:
-  - [xxx @ Sandia : zzz]
-  - [xxx @ Accenture : tbd]
+  - [autonomous AI intern @ Sandia : tbd]
+  - [LLM intern @ Accenture : current]
   - [SWE intern @ Sandlines : developed AI integration for real-time national policy change tracking]
-  - [ML team lead @ IEEE-UCB : architected algorithms of an open-source audio NLP model from scratch]
+  - [MLE team lead @ IEEE-UCB : designed architecture of an open-source audio NLP model from scratch]
   - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric bacteria probe]
   - [techops intern @ Silicon Valley Clean Water : designed documentation tagging reference database]
   - [electronics technician @ Radiant Design Group : deployed network & audiovisual hardware/devices]

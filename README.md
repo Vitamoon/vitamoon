@@ -6,7 +6,6 @@ education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
     ++ looking for internships. like Citadel or McKinsey or better
 past_experiences:
-  - [autonomous AI intern @ Sandia : tbd]
   - [LLM intern @ Accenture : current]
   - [SWE intern @ Sandlines : developed AI integration for real-time national policy change tracking]
   - [MLE team lead @ IEEE-UCB : designed architecture of an open-source audio NLP model from scratch]

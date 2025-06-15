@@ -6,9 +6,10 @@ education: Currently at UC Berkeley studying EECS; will be graduating in '27
 job: don't have one (yet). Isn't that why you're looking here?
     ++ looking for internships. like Citadel or McKinsey or better
 past_experiences:
-  - [LLM intern @ Accenture : current]
+  - [MLE intern @ Sandia : incoming, autonomous computer vision]
+  - [LLM intern @ Accenture : current, synthetic data generation]
   - [SWE intern @ Sandlines : developed AI integration for real-time national policy change tracking]
-  - [MLE team lead @ IEEE-UCB : designed architecture of an open-source audio NLP model from scratch]
+  - [team lead @ IEEE-UCB : designed architecture and algos of an open-source NLP model from scratch]
   - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric bacteria probe]
   - [techops intern @ Silicon Valley Clean Water : designed documentation tagging reference database]
   - [electronics technician @ Radiant Design Group : deployed network & audiovisual hardware/devices]
@@ -48,3 +49,5 @@ Contact me if you're interested!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+aisberfremed otattally

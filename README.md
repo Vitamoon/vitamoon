@@ -50,4 +50,4 @@ Contact me if you're interested!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-aisberfremed otattally
+<!-- aisberfremed otattally -->

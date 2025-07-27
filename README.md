@@ -2,7 +2,7 @@
 name: Kaelan
 location: Berkeley
 origin: SF Bay Area 🌉
-education: Currently at UC Berkeley studying EECS; will be graduating in '27
+education: Currently at UC Berkeley studying EECS
 job: don't have one (yet). Isn't that why you're looking here?
     ++ looking for internships. like Citadel or McKinsey or better
 past_experiences:

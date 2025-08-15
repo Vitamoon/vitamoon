@@ -20,7 +20,7 @@ My favorite project I've worked on is an interactive, animated visual novel with
 
 I love hackathons! Check out my most recent ones:
 
-* [Conversational roast machine to help founders stay grounded with reality](https://github.com/Vitamoon/humble) demoed @ YC, Cognition, Soma x EF, OpenAI x Cerebral Valley, Anthropic x Lindy, Shopify Mini (all on same weekend)
+* [Conversational roast machine to help founders stay grounded with reality](https://github.com/Vitamoon/humble) seen @ YC, Cognition, Soma x EF, OpenAI x Cerebral Valley, Anthropic x Lindy, Shopify Mini (all on same weekend)
 * [Visualizing correlation between housing prices and geological features](https://github.com/Vitamoon/hacktech-25) (1st place @ Hacktech 2025)
 * [Finding qubit statevectors in peaked circuits](https://github.com/Vitamoon/yquantum-25-bq) using classical simulation (2nd place @ YQuantum 2025)
 * [Consensus learning for fact-checking](https://github.com/Vitamoon/flare-cons) agentic AI responses across different models (2nd place @ Flare x Google AI)

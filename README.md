@@ -1,15 +1,15 @@
 ```yaml
 location: SF Bay Area local 🌉
-edu: EECS+GWS @ Berkeley
+edu: EECS+GWS @ UC Berkeley
 past_experiences:
-  - [intern @ Sandia : autonomous computer vision for hypersonic rocketry & missile guidance systems]
+  - [intern @ Sandia Labs : reinforcement learning for autonomous hypersonic rocket guidance systems]
   - [intern @ Accenture : probabilistic/statistical inference for LLMs for synthetic data generation]
   - [intern @ Sandlines : agentic AI integration for tracking national policies for legal compliance]
   - [intern @ Silicon Valley Clean Water : designed audit + documentation tagging reference database]
   - [team lead @ IEEE-UCB : designed architecture and algos of an open-source NLP model from scratch]
-  - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric bacteria probe]
+  - [PCB designer @ Mission Cube : built power systems for a world-record atmospheric sampling probe]
 hobbies:
-    [arthouse films, birdwatching, etymology, photography, crocheting, The Void Rains Upon Her Heart]
+    [arthouse cinematography, caving, crochet, birdwatching, wordplay, The Void Rains Upon Her Heart]
 interests:
     [lithography, econometrics, entomology, architecture, immunology, culinary art, condensed matter]
 ```
@@ -26,9 +26,6 @@ I love hackathons! Check out my most recent ones:
 * [Personalized financial recommendation engine](https://github.com/Vitamoon/trae-hackathon) powered by your socials (3rd place + Meta sponsor prize @ ByteDance Trae)
 * [Simulating options pricing with constant market exposure](https://github.com/Vitamoon/wfbadss) using MLIP & [SPSA](https://www.jhuapl.edu/spsa/) (Finalist @ Wells Fargo DSS)
 * [Location-based humanitarian and social impact news](https://github.com/Nightxade/hack-for-humanity-2025) (Finalist @ Hack for Humanity 2025)
-
-### I'm currently working on a data center cooling startup.
-Contact me if you're interested!
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">

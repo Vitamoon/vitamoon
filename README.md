@@ -9,9 +9,9 @@ past_experiences:
   - [team lead @ IEEE : designed architecture of an open source alternative to Whisper from scratch]
   - [PCBs @ Mission Cube : solar power & battery array on a world record atmospheric sampling probe]
 hobbies:
-    [arthouse cinema, caving, crochet, birdwatching, precision platformers e.g. TVRUHH, Katana Zero]
+    [caving, crochet, birdwatching, arthouse cinema, precision platformers e.g. TVRUHH, Katana Zero]
 interests:
-    [lithography, econometrics, entomology, architecture, immunology, culinary art, compressed foam]
+    [lithography, entomology, architecture, immunology, econometrics, culinary art, compressed foam]
 ```
 
 My first compsci project I worked on is an interactive, animated visual novel with over 200 scenes!

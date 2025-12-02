@@ -11,7 +11,7 @@ past_experiences:
 hobbies:
     [caving, crochet, birdwatching, arthouse cinema, precision platformers e.g. TVRUHH, Katana Zero]
 interests:
-    [lithography, entomology, architecture, immunology, econometrics, culinary art, compressed foam]
+    [lithography, entomology, architecture, immunology, linguistics, culinary arts, compressed foam]
 ```
 
 My first compsci project I worked on is an interactive, animated visual novel with over 200 scenes!

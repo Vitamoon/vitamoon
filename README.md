@@ -27,12 +27,6 @@ I love hackathons! Check out my most recent wins:
 * [Simulating options pricing under a constant market exposure](https://github.com/Vitamoon/wfbadss) using MLIP & [SPSA](https://www.jhuapl.edu/spsa/) (Finalist @ Wells Fargo Decision Sciences Summit)
 * [Location-based humanitarian and social impact news](https://github.com/Nightxade/hack-for-humanity-2025) to brighten your day (Finalist @ Hack for Humanity 2025)
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamoon&theme=merko&layout=compact&langs_count=20" />
-</a>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

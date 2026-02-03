@@ -2,7 +2,7 @@
 loc: SF Bay Area local 🌉
 edu: EECS + GWS @ UC Berkeley
 prev:
-  - [RL @ Sandia Labs : reinforcement learning for multi-agent hypersonic rocketry guidance systems]
+  - [RL @ Sandia Labs : reinforcement learning for coordinating hypersonic missile guidance systems]
   - [ML @ CAISH : benchmarking capabilities of frontier models on conducting research independently]
   - [ML @ Accenture : probabilistic/statistical inference on LLMs for generating synthetic datasets]
   - [dev @ Sandlines : tracking national policy changes to ensure compliance in municipal paperwork]

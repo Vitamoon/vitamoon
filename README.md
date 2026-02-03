@@ -1,7 +1,7 @@
 ```yaml
-location: SF Bay Area local 🌉
+loc: SF Bay Area local 🌉
 edu: EECS + GWS @ UC Berkeley
-past_experiences:
+prev:
 
   - [RL @ Sandia Labs : reinforcement learning for multi-agent hypersonic rocketry guidance systems]
   - [ML @ CAISH : benchmarking capabilities of frontier models on conducting research independently]
@@ -19,7 +19,7 @@ interests:
 My first project ever was an interactive, animated visual novel with over 200 scenes!
 [Try it out!](https://github.com/Vitamoon/mojan)
 
-I love hackathons! Check out my most recent projects:
+I love hackathons! Check out my most recent wins:
 
 * [Visualizing correlations between geological features and housing](https://github.com/Vitamoon/hacktech-25) prices (1st @ Hacktech 2025)
 * [Finding qubit statevectors in peaked circuits](https://github.com/Vitamoon/yquantum-25-bq) using classical simulation (2nd @ YQuantum 2025)
